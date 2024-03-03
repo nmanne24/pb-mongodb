@@ -1,0 +1,32 @@
+{
+    "my_monthly_budget": [
+        {
+            "title": "Rent", 
+            "budget": 465
+        },
+        {
+            "title": "Groceries",
+            "budget": 100
+        },  
+        {
+            "title": "Dine out",
+            "budget": 50
+        },
+        {
+            "title": "Shopping",
+            "budget": 50
+        },
+        {
+            "title" : "Mobile recharge",
+            "budget" : 25
+        },
+        {
+            "title" : "Utilities",
+            "budget" : 100
+        },
+        {
+            "title" : "Savings",
+            "budget" : 250
+        }
+]}
+
